@@ -32,5 +32,19 @@ td, th {
     width: 60%
     opacity: 1;
     transition: 400ms;
-    box-shadow: 10px 10px 5px #000000;
+    box-shadow: 10px 10px 5px 20px #00000, -10px -10px yellow, -20px 20px rgba(255,0,0,0.5);
+
+}
+
+.beneficios {
+    padding: 3em 0;
+    background: #888888;
+    box-shadow: inset 0 0 30px #FF0000;
+}
+
+.imagem-beneficios {
+    width: 60%
+    opacity: 1;
+    transition: 400ms;
+    box-shadow: 10px 10px 10px 0 #000000;
 }
