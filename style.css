@@ -38,3 +38,12 @@ td, th {
 .imagem-beneficios:hover {
     opacity: 0.3;
 }
+
+.mapa {
+    padding: 3em 0;
+}
+
+.mapa p {
+    margin: 0 0 2em;
+    text-align: center;
+}
