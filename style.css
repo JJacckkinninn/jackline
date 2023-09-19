@@ -9,6 +9,10 @@ div {
 p:hover {
   color:red;
 }
+em strong {
+    color: #FF0000;
+}
+
 footer:hover {
   color:red;
 }
